@@ -1,0 +1,73 @@
+[04-Sep-2018 23:35:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_themes_file_uri() in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php:45
+Stack trace:
+#0 C:\Users\veros\Desktop\desafio21\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\veros\Desktop\desafio21\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\veros\\...')
+#2 C:\Users\veros\Desktop\desafio21\wordpress\index.php(17): require('C:\\Users\\veros\\...')
+#3 {main}
+  thrown in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php on line 45
+[04-Sep-2018 23:36:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_themes_file_uri() in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php:84
+Stack trace:
+#0 C:\Users\veros\Desktop\desafio21\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\veros\Desktop\desafio21\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\veros\\...')
+#2 C:\Users\veros\Desktop\desafio21\wordpress\index.php(17): require('C:\\Users\\veros\\...')
+#3 {main}
+  thrown in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php on line 84
+[06-Sep-2018 21:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_themes_file_uri() in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php:45
+Stack trace:
+#0 C:\Users\veros\Desktop\desafio21\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\veros\Desktop\desafio21\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\veros\\...')
+#2 C:\Users\veros\Desktop\desafio21\wordpress\index.php(17): require('C:\\Users\\veros\\...')
+#3 {main}
+  thrown in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php on line 45
+[06-Sep-2018 23:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_themplate_directory_uri() in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php:84
+Stack trace:
+#0 C:\Users\veros\Desktop\desafio21\wordpress\wp-includes\template-loader.php(74): include()
+#1 C:\Users\veros\Desktop\desafio21\wordpress\wp-blog-header.php(19): require_once('C:\\Users\\veros\\...')
+#2 C:\Users\veros\Desktop\desafio21\wordpress\index.php(17): require('C:\\Users\\veros\\...')
+#3 {main}
+  thrown in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\front-page.php on line 84
+[10-Sep-2018 17:24:56 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:26:06 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:26:09 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:26:09 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:26:14 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:46:42 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:46:46 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:47:35 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:47:56 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:48:01 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:48:33 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:48:44 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:49:52 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:49:54 UTC] PHP Parse error:  syntax error, unexpected 'menus_setup' (T_STRING) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 81
+[10-Sep-2018 17:50:27 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 83
+[10-Sep-2018 17:51:15 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 17:52:21 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 17:56:04 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 17:58:53 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 90
+[10-Sep-2018 17:59:14 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 17:59:28 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:00:02 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:00:29 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:08:01 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:08:06 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:08:10 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:08:16 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:08:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 93
+[10-Sep-2018 18:09:17 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:51:04 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 18:51:35 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 87
+[10-Sep-2018 18:51:48 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 19:07:14 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 19:07:42 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 86
+[10-Sep-2018 19:08:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 86
+[10-Sep-2018 19:08:24 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 86
+[10-Sep-2018 19:11:14 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 19:12:15 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 88
+[10-Sep-2018 19:13:38 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 75
+[10-Sep-2018 19:13:53 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 94
+[10-Sep-2018 19:14:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 94
+[10-Sep-2018 19:15:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 91
+[10-Sep-2018 19:15:42 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 91
+[10-Sep-2018 19:16:29 UTC] PHP Fatal error:  Cannot redeclare menus_setup() (previously declared in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php:54) in C:\Users\veros\Desktop\desafio21\wordpress\wp-content\themes\mi tema\functions.php on line 73
+[25-Sep-2018 15:24:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2003): Can't connect to MySQL server on 'localhost' (10061) in C:\Users\veros\Desktop\desafio21\wordpress\wp-includes\wp-db.php on line 1531
